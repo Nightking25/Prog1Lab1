@@ -1,4 +1,4 @@
-public class convertUnits {
+public class ConvertUnits {
 
     public static void main(String[] args) {
         double distanceInMeters, distanceInFeet;
